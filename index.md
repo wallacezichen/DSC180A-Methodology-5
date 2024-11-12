@@ -1,7 +1,3 @@
----
-title: DSC 180A Methodology Assignment 5
----
-
 # DSC 180A Methodology Assignment 5
 
 **Name:** Zichen Yu  
